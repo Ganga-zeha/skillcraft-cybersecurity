@@ -26,22 +26,3 @@ These tools were created purely for **learning purposes** and follow ethical sec
 
 
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/skillcraft-cybersecurity.git
-   cd skillcraft-cybersecurity
-
-
----
-
-## **Step 4 — Save it**
-1. Scroll down to the bottom of the page.
-2. Click **Commit changes** (green button).
-
-Now your SkillCraft repo will have a **professional description** with sections, badges, and placeholders for screenshots.  
-
----
-
-If you want, I can now do the same **click-by-click** for your **CODTECH Power BI Internship** so both are done today.  
-Do you want me to walk you through that next?
